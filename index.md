@@ -6,7 +6,6 @@ I figured I could share some useful information while trying to figure out the l
 
 
 ### What Is Serverless & Why Does It Matter? A Reading List  
-```
 - [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action)
 - [Agile development for serverless platforms](https://www.manning.com/books/agile-development-for-serverless-platforms)
 - [Functions Conference](https://functions.events)
@@ -32,11 +31,9 @@ I figured I could share some useful information while trying to figure out the l
 - [The Serverless Way](https://theserverlessway.com) 
 - [The power of serverless](https://thepowerofserverless.info) 
 - [What the hell does serverless mean?](https://hackernoon.com/what-the-hell-does-serverless-mean-219a5f6e3c6a)
-```
+
 
 ### Contact Me
-```
 - [Blog](https://jerrygamblin.com) 
 - [Github](https://github.com/jgamblin) 
 - [Twitter](https://twitter.com/jgamblin) 
-```
