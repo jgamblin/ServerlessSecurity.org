@@ -1,8 +1,8 @@
-Welcome to ServlessSecurity.org!
+### Welcome to ServlessSecurity.org!
 
 It is my new site about security without servers or something.  ¯\_(ツ)_/
 
-I figured I could share some useful information while trying to figure out the long-term goal with this site. 
+I figured I could share some useful information while trying to figure out the long-term goal for this site. 
 
 
 ### What Is Serverless & Why Does It Matter? A Reading List  
