@@ -1,4 +1,4 @@
-### Welcome to ServlessSecurity.org!
+### Welcome to ServerlessSecurity.org!
 
 It is my new site about security without servers or something.  ¯\\\_(ツ)_/¯
 
